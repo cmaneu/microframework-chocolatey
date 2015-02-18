@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>net.microframework</id>
+    <version>0.0.2</version>
+    <title>.net MicroFramework</title>
+    <authors>MS Open Tech</authors>
+    <owners>Christopher MANEU</owners>
+    <licenseUrl>https://netmf.codeplex.com/license</licenseUrl>
+    <projectUrl>https://netmf.codeplex.com</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>The Microsoft® .NET Micro Framework combines the reliability and efficiency of managed code with the premier development tools of Microsoft Visual Studio® to deliver exceptional productivity for developing embedded applications on small devices. The Microsoft .NET Micro Framework SDK supports development of code, including device I/O, in the C# language using a subset of the .NET libraries, and is fully integrated with the Microsoft Visual Studio® development environment. The .NET Micro Framework class library supports all major namespaces and types from the desktop framework, managed drivers support, Remote Firmware Updates and Cryptographic functions for Secure Devices.
+
+Note: This package is *not* packaged by MS Open Tech. If you're from them, please contact me to transfer you the ownership of this package !
+</description>
+    <summary>.Net Micro Framework with VS 2013 tools</summary>
+    <tags>iot microframework gadgeteer net</tags>
+  </metadata>
+</package>
